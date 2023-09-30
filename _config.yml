@@ -1,4 +1,4 @@
-title:              Fabian's Blog
+title:              Fabian Schicks's Blog
 email:              schick.fab@gmail.com
 description:        A Blog about Visual Computing, Hardware Stuff & Software-Engineering
 author:             Fabian Schick
@@ -6,11 +6,10 @@ author:             Fabian Schick
 url:                "https://fabianschick.github.io"
 
 # Social Profiles
-twitter_username:   
-github_username:    FabianSchick1
-facebook_username:  
-instagram_username:  
-linkedin_username:
+twitter_username:   FabianSchick4
+github_username:    FabianSchick1  
+instagram_username: fabianschick1
+linkedin_username: Fabian Schick #fabian-schick-692a4118a
 
 # Add your google-analytics ID here to activate google analytics
 # google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code

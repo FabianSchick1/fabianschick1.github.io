@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Setup a Blog wit Github Pages and Jekyll"
-subtitle: "Quick Tutorial for setup and deployment of a personal free blog."
+title: "Introduction to Visual Computing"
+subtitle: "All the important stuff you need to know."
 background: '/img/posts/matrix.jpg'
 ---
 

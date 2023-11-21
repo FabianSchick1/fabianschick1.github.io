@@ -2,7 +2,7 @@
 layout: post	
 title: "Introduction to ANS"
 subtitle: "A modern approach to entropy coding."
-background: '/img/posts/2023-08-13-Introduction-to-ANS/header.jpg'	
+background: '/img/posts/01.jpg'	
 ---
 
 # Work in Progress

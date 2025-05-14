@@ -1,14 +1,12 @@
-title:              Fabian Schick's Blog
-email:              official@fabianschick.blog
-description:        A Blog about Visual Computing, Math, Hardware Stuff & Software-Engineering.
+title:              Fabian Schick
+email:              schick.fab@gmail.com
+description:        
 author:             Fabian Schick
 # baseurl:            "/startbootstrap-clean-blog-jekyll"
 url:                "https://fabianschick.github.io"
 
 # Social Profiles
-twitter_username:   FabianSchick4
 github_username:    FabianSchick1  
-instagram_username: fabianschick1
 linkedin_username: fabian-schick-692a4118a
 
 # Add your google-analytics ID here to activate google analytics
